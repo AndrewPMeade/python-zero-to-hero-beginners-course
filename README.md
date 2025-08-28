@@ -7,7 +7,7 @@
 - Andrew Meade
 - Jo Baker
 
-the matrial is based on a prviouse course - [python-zero-to-hero-beginners-course](https://github.com/ChasNelson1990/python-zero-to-hero-beginners-course)
+the matrial is based on a previous course - [python-zero-to-hero-beginners-course](https://github.com/ChasNelson1990/python-zero-to-hero-beginners-course)
 
 by 
 
